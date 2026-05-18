@@ -14,6 +14,8 @@ Typescript
 
 Git e GitHub
 
+SQL
+
 Programação Orientada a Objetos
 
 Lógica de Programação
