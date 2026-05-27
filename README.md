@@ -39,3 +39,8 @@ www.linkedin.com/in/davicoelhozzz
 
 Email:
 davifcoelho@hotmail.com
+
+
+
+
+![snake gif](https://github.com/daviffc/daviffc/blob/output/github-contribution-grid-snake.svg)
