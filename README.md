@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03050a,50:0891b2,100:22d3ee&text=DAVI%20FERREIRA%20COELHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e1b4b,100:6d28d9&text=DAVI%20COELHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;COMPUTER+SCIENCE+STUDENT;BACK-END+%26+FULL+STACK+DEVELOPMENT;JAVA+%7C+TYPESCRIPT+%7C+NODE.JS;REACT+%7C+NEXT.JS+%7C+POSTGRESQL;DOCKER+%7C+PRISMA+%7C+NEON;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;COMPUTER+SCIENCE+STUDENT;BACK-END+%26+FULL+STACK+DEVELOPMENT;JAVA+%7C+TYPESCRIPT+%7C+NODE.JS;REACT+%7C+NEXT.JS+%7C+POSTGRESQL;DOCKER+%7C+PRISMA+%7C+NEON;WELCOME+TO+MY+CODE+UNIVERSE"/>
 </div>
 
 ---
@@ -164,14 +164,14 @@ DB Management → DBeaver
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=daviffc&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviffc&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daviffc&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviffc&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daviffc&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daviffc&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -179,7 +179,7 @@ DB Management → DBeaver
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daviffc&theme=chartreuse-dark&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=daviffc&theme=tokyonight&no-frame=true&margin-w=15"/>
 </div>
 
 ---
@@ -191,7 +191,7 @@ DB Management → DBeaver
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/davicoelhozzz/">
-<img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
 
@@ -199,10 +199,10 @@ DB Management → DBeaver
 
 <div align="center">
 
-### 🔷 "Learning by building, improving by solving."
+### 💜 "Learning by building, improving by solving."
 
-<img src="https://komarev.com/ghpvc/?username=daviffc&style=for-the-badge&color=22D3EE"/>
+<img src="https://komarev.com/ghpvc/?username=daviffc&style=for-the-badge&color=A78BFA"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:03050a,50:0891b2,100:22d3ee"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:1e1b4b,100:6d28d9"/>
