@@ -1,43 +1,208 @@
-Davi Ferreira Coelho (daviffc)
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03050a,50:0891b2,100:22d3ee&text=DAVI%20FERREIRA%20COELHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Estudante de programação com foco em desenvolvimento back-end em Java.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;COMPUTER+SCIENCE+STUDENT;BACK-END+%26+FULL+STACK+DEVELOPMENT;JAVA+%7C+TYPESCRIPT+%7C+NODE.JS;REACT+%7C+NEXT.JS+%7C+POSTGRESQL;DOCKER+%7C+PRISMA+%7C+NEON;WELCOME+TO+MY+CODE+UNIVERSE"/>
+</div>
 
- - Sobre
+---
 
-Tenho desenvolvido projetos com o objetivo de consolidar conceitos fundamentais de programação, especialmente em Java e Typescript.
+## 🤖 DAVI CODE CORE
 
- - Tecnologias
+```bash
+╭────────────────────────────╮
+│       DAVI SYSTEM v2.0     │
+╰────────────────────────────╯
 
-Java 
+Initializing system...
 
-Typescript
+████████████████████ 100%
 
-Git e GitHub
+✔ Developer detected
+✔ Learning mode enabled
+✔ Code engine activated
+✔ Projects loaded
+✔ Database connected
 
-SQL
+STATUS: ONLINE 🚀
+```
 
-Programação Orientada a Objetos
+---
 
-Lógica de Programação
+## 👨‍💻 About Me
 
+```javascript
+const Davi = {
+  name: "Davi Ferreira Coelho",
+  role: "Computer Science Student",
+  focus: "Back-end & Full Stack Development",
+  location: "Brazil 🇧🇷",
 
+  stack: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS"
+    ],
 
- - Objetivos de Aprendizado
+    backend: [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "Java"
+    ],
 
-Estruturação de projetos (padrão MVC)
+    database: [
+      "PostgreSQL",
+      "Neon",
+      "SQL",
+      "Prisma ORM"
+    ],
 
-Integração com banco de dados (MySQL ou SQLite)
+    tools: [
+      "Docker",
+      "Git",
+      "GitHub",
+      "VS Code",
+      "DBeaver",
+      "Insomnia"
+    ]
+  },
 
-Desenvolvimento de APIs com Spring Boot
+  concepts: [
+    "Object-Oriented Programming",
+    "Data Structures",
+    "Programming Logic",
+    "REST APIs",
+    "Software Engineering"
+  ],
 
-Aprimoramento de boas práticas em Java
+  passion: "Building software and learning through real projects 🚀"
+}
+```
 
-- Contato
+---
 
-LinkedIn:
-www.linkedin.com/in/davicoelhozzz
+## ⚡ Tech Stack
 
-Email:
-davifcoelho@hotmail.com
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,postgresql,prisma,docker,git,github,vscode&perline=8"/>
+</div>
 
+---
 
+## 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description | 🛠️ Technologies |
+|---|---|---|
+| 📋 Task Manager | Gerenciador de tarefas desenvolvido para praticar fundamentos de desenvolvimento de software | Java |
+| 🔐 LoginBasico | Sistema de autenticação e gerenciamento de usuários | TypeScript, Node.js, PostgreSQL |
+| 🗄️ CRUD Básico | API CRUD para praticar operações e integração com banco de dados | TypeScript, Node.js, PostgreSQL |
+| 💻 Java Projects | Projetos desenvolvidos para consolidar fundamentos de programação e POO | Java |
+| ⚙️ Full Stack Projects | Projetos envolvendo aplicações web, APIs, bancos de dados e interfaces | TypeScript, React, Next.js |
+
+---
+
+## 🧠 Current Mission
+
+```bash
+> Loading objectives...
+
+[██████████] Programming Fundamentals
+[█████████░] Java Development
+[█████████░] TypeScript & Node.js
+[████████░░] React & Next.js
+[████████░░] PostgreSQL & SQL
+[███████░░░] Prisma ORM
+[███████░░░] Docker
+[██████░░░░] Software Architecture
+
+STATUS:
+Learning. Building. Improving. 🚀
+```
+
+---
+
+## 🎯 What I'm Focusing On
+
+```
+01. Strengthening my Java fundamentals
+02. Building REST APIs with Node.js
+03. Improving TypeScript development
+04. Building interfaces with React and Next.js
+05. Working with PostgreSQL, Neon and SQL
+06. Using Prisma for database management
+07. Learning Docker and containerized environments
+08. Understanding software architecture
+09. Improving code quality and organization
+10. Building real-world projects
+```
+
+---
+
+## 🛠️ Development Environment
+
+```
+Editor        → VS Code
+Versioning    → Git & GitHub
+Database      → PostgreSQL / Neon
+ORM           → Prisma
+Containers    → Docker
+API Testing   → Insomnia
+DB Management → DBeaver
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postgresql&perline=5"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daviffc&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviffc&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daviffc&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=daviffc&theme=chartreuse-dark&no-frame=true&margin-w=15"/>
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+<a href="https://github.com/daviffc">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/davicoelhozzz/">
+<img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
+
+---
+
+<div align="center">
+
+### 🔷 "Learning by building, improving by solving."
+
+<img src="https://komarev.com/ghpvc/?username=daviffc&style=for-the-badge&color=22D3EE"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:03050a,50:0891b2,100:22d3ee"/>
