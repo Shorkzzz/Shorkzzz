@@ -89,7 +89,7 @@ const Davi = {
 ## ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,postgresql,prisma,docker,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,postgresql,prisma,docker,git,github,idea,vscode&perline=8"/>
 </div>
 
 ---
@@ -146,7 +146,7 @@ Learning. Building. Improving. 🚀
 ## 🛠️ Development Environment
 
 ```
-Editor        → VS Code
+Editor        → VS Code / IntelliJ IDEA
 Versioning    → Git & GitHub
 Database      → PostgreSQL / Neon
 ORM           → Prisma
