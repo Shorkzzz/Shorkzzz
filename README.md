@@ -156,7 +156,7 @@ DB Management → DBeaver
 ```
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postgresql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,postgresql&perline=5"/>
 </div>
 
 ---
